@@ -1,2 +1,2 @@
-Iinterestpoints surf
+Interestpoints surf
 Descriptor surf
